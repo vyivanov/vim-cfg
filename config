@@ -2,3 +2,5 @@ set number
 set autoindent
 set shiftwidth=4
 set tabstop=4
+set laststatus=2    " show status bar even in single window mode
+set mouse=a
